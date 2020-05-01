@@ -4,7 +4,7 @@ Repositorio de la pagina web de Ingenieria de Software - 2020
  - Aguilar Rohan Alicia
  - Cruz Salazar David
  - Martínez Pérez Jacobo
- - Olvera Ramirez Kevin Cristian
+ - Olvera Ramírez Kevin Cristian
  - Vasquez Galvan Lester
 
 
