@@ -8,4 +8,7 @@ Repositorio de la pagina web de Ingenieria de Software - 2020
  - Vasquez Galvan Lester
 
 
-https://kolverar.github.io/website_is_2020/
+https://elyse0.github.io/website_is_2020/
+
+![Preview](https://i.imgur.com/aA4xRDe.png)
+
